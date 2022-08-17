@@ -13,7 +13,7 @@
 ![badge](https://img.shields.io/badge/-YouTube-red)
 
 
-- [YouTube](https://youtu.be/dB0ah06DfsE "YouTube Link")
+- [YouTube video preview](https://youtu.be/dB0ah06DfsE "YouTube Link")
 
 # About Me
 > My name is **Jaydatt Ramkabir** currently i am learning full stack web development

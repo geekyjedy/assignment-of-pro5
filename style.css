@@ -1,0 +1,120 @@
+body {
+    background-image: url(./assets/bg.png);
+    background: position x 100%;
+    background: position y 100%;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbar {
+    background-color: #000000;
+    margin: -22px;
+}
+
+img {
+    width: 110px;
+    position: absolute;
+    left: 60px;
+    top: 25px;
+}
+
+.hero {
+    position: relative;
+    top: 70px;
+    text-align: center;
+}
+
+.line {
+    border-left: 2px solid #ffffff;
+    height: 50px;
+    position: absolute;
+    left: 15%;
+    top: 3%;
+}
+
+.list-item {
+    display: inline;
+    font-family: 'montserrat';
+    font-size: x-small;
+    position: relative;
+    color: aliceblue;
+    margin: 18px;
+}
+
+.list-item:hover {
+    color: #d259e8;
+    cursor: pointer;
+}
+
+.list {
+    position: relative;
+    margin-left: 230px;
+    top: 30px;
+}
+
+.button-small {
+    background-color: #cd20eb;
+    padding: 8px 25px;
+    border-color: #cd20eb;
+    border-radius: 7px;
+    color: white;
+    font-family: 'montserrat';
+    font-size: smaller;
+    font-weight: 200;
+    position: relative;
+    bottom: 25px;
+    margin-left: 80%;
+}
+
+.button-small:hover {
+    box-shadow: 10px 0px 20px 20px black inset;
+    transition: 0.5s;
+}
+
+.button-small:hover::before {
+    transition: 0.5s;
+    display: block;
+    color: #ffffff;
+    font-family: 'montserrat';
+}
+
+h1 {
+    font-family: 'montserrat';
+    font-size: 300%;
+    text-align: center;
+    color: #ffffff;
+}
+
+p {
+    font-family: 'montserrat';
+    color: #ffffff;
+    position: relative;
+    top: -35px;
+}
+
+button.button-large {
+    background-color: #cd20eb;
+    padding: 15px 25px;
+    border-color: #cd20eb;
+    border-radius: 9px;
+    color: white;
+    font-family: 'montserrat';
+    font-size: smaller;
+    position: relative;
+    bottom: -35px;
+}
+
+.button-large:hover {
+    box-shadow: 15px 0px 40px 35px black inset;
+    transition: 0.5s;
+    border: 2px solid #d259e8;
+}
+
+.button-large:hover::before {
+    content: 'go ahead ›';
+    transition: 0.5s;
+    display: block;
+    color: #ffffff;
+    font-family: 'montserrat';
+}

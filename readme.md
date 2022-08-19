@@ -13,7 +13,12 @@
 ![badge](https://img.shields.io/badge/-YouTube-red)
 
 
-- [YouTube video preview](https://youtu.be/dB0ah06DfsE "YouTube Link")
+- [YouTube](https://youtu.be/dB0ah06DfsE "YouTube Link")
+
+![badge](https://img.shields.io/badge/-Live%20project%20link-green)
+
+
+- [Live Here](https://geekyjedy-pro5.netlify.app/ "Netlify link")
 
 # About Me
 > My name is **Jaydatt Ramkabir** currently i am learning full stack web development
@@ -34,4 +39,4 @@
     - Many More...
 
 ## How much time taken to build this ? 
->3 Hours
+>1.5 Hours
